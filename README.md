@@ -13,7 +13,7 @@
 <b>Gender:</b> Male
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphics Design, Games, Anime
+<b>Hobbies:</b> Tech Stuff, Graphics Design, Games, Anime
 </li>
 <li>
 <b>Working @:</b> AOSP ( Paranoid Android fork ) + Private Unity development
