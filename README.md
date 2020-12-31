@@ -28,26 +28,14 @@
 <h1 align="center">OS + Specs</h1>
  <li>
  <b>OS</b>
-</li>
-<li>
 Windows 10 Pro 2004
-<li>
-</li>
 Manjaro KDE Plasma Kernel Version :	4.9.249 LTS
-<li>
-</li>
 Ubuntu 18.04 LTS Windows Subsystem for Linux
 <li>
 </li>
 <b>Specs</b>
-<li>
-</li>
 Intel Xeon E5 2690v0 2.60GHz
-<li>
-</li>
 32GB DDR3 ECC Reg ( 16x2 1866MHz )
-<li>
-</li>
 <p align="center">
   <a href="https://github.com/TechnoHT"><img src="https://github-readme-stats.vercel.app/api?username=TechnoHT&hide_border=true&show_icons=true&theme=radical" alt="TechnoHT's github stats"></a>
 </p>
