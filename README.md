@@ -18,6 +18,19 @@
 <li>
 <b>Working @:</b> AOSP ( Paranoid Android fork ) + Private Unity development
 </li>
+
+<b>Language :</b> C# (.NET), C/C++, 
+</li>
+<li>
+<b>Most used tools :</b> Unity3D, Blender, Visual Studio, Visual Studio Code, Quixel Mixer
+</li>
+<li>
+<b>Most of the time develop in Unity using C# ( ͡° ͜ʖ ͡°)</b>
+   </li>
+<li>
+<b>What i'm aiming for :</b> Become a good Game Developer :c
+
+
 <h1 align="center">Software & Tools</h1>
 
 <p align="center">
