@@ -39,12 +39,16 @@ Ubuntu 18.04 LTS Windows Subsystem for Linux
    </li>
 <li>
 <b>Specs</b>
+   </li>
+<li>
 Intel Xeon E5 2690v0 2.60GHz
    </li>
 <li>
 32GB DDR3 ECC Reg ( 16x2 1866MHz )
    </li>
 <li>
+   AMD Radeon RX470 4GB XFX
+   </li>
 <p align="center">
   <a href="https://github.com/TechnoHT"><img src="https://github-readme-stats.vercel.app/api?username=TechnoHT&hide_border=true&show_icons=true&theme=radical" alt="TechnoHT's github stats"></a>
 </p>
