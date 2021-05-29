@@ -27,13 +27,6 @@
 <li>
 <b>What i'm aiming for :</b> Well.....¯\_(ツ)_/¯
 
-
-<h1 align="center">Software & Tools</h1>
-
-<p align="center">
-<img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%9999FF.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&color=blueviolet"> <img src="https://img.shields.io/badge/blender%20-%F5792A.svg?&style=for-the-badge&logoColor=white&logo=blender&color=orange"> <img src="https://img.shields.io/badge/krita%20-%3BABFF.svg?&style=for-the-badge&logoColor=white&logo=krita&color=blue"> <img src="https://img.shields.io/badge/mircosoft%20office%20-%D83B01.svg?&style=for-the-badge&logoColor=white&logo=microsoft%20office&color=orange"><br> <img src="https://img.shields.io/badge/autodesk%20-%0696D7.svg?&style=for-the-badge&logoColor=white&logo=autodesk&color=lightblue"> <img src="https://img.shields.io/badge/visual%20studio%20-%5C2D91.svg?&style=for-the-badge&logoColor=white&logo=visual%20studio&color=purple"> 
-   <img src="https://img.shields.io/badge/cinema%204d%20-%011A6A.svg?&style=for-the-badge&logoColor=white&logo=cinema%204d&color=darkblue"> 
-   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 <h1 align="center">OS + Specs</h1>
 <b>OS</b>
