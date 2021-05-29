@@ -54,7 +54,6 @@ Intel Xeon E5 2690v0 2.60GHz
   <h1 align="center">Contact me :)</h1>
   <p align="center"><a href="https://twitter.com/TptuHieu20023" target="_blank"><img src="https://img.shields.io/badge/TTH%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.twitch.tv/technoht" target="_blank"><img src="https://img.shields.io/badge/TechnoHT%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/> <a href="https://www.facebook.com/Tptu.Hieu20023/" target="_blank"><img src="https://img.shields.io/badge/hieutran%20-%1877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white&color=blue"/></a> <a href="mailto:hieutr134@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hieutran%20-%D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=red"/></a>
    </li>
-<li>
 </a>
 <p align="center">
   <a href="https://github.com/TechnoHT"><img src="https://github-readme-stats.vercel.app/api?username=TechnoHT&hide_border=true&show_icons=true&theme=radical" alt="TechnoHT's github stats"></a>
