@@ -22,13 +22,10 @@
 <b>Language :</b> C# (.NET), C/C++, 
 </li>
 <li>
-<b>Most used tools :</b> Unity3D, Blender, Visual Studio, Visual Studio Code, Quixel Mixer
+<b>Most used tools :</b> Unity3D, Blender, Visual Studio, Visual Studio Code
 </li>
 <li>
-<b>Most of the time develop in Unity using C# ( ͡° ͜ʖ ͡°)</b>
-   </li>
-<li>
-<b>What i'm aiming for :</b> Become a good Game Developer :c
+<b>What i'm aiming for :</b> Well.....¯\_(ツ)_/¯
 
 
 <h1 align="center">Software & Tools</h1>
