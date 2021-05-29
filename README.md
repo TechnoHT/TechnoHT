@@ -32,13 +32,10 @@
 <b>OS</b>
 </li>
 <li>
-Windows 10 Pro 2004
+Windows 10 Enterprise 20H2
 </li>
 <li>
-Manjaro KDE Plasma Kernel Version :	4.9.249 LTS
-   </li>
-<li>
-Ubuntu 18.04 LTS Windows Subsystem for Linux
+Ubuntu 20.04,20.04 LTS / openSUSE Leap 15.2 / SLES 12 SP5, 15 SP2 / Alpine / Kali ( maybe WSLdl in future )
    </li>
 <b>Specs</b>
    </li>
