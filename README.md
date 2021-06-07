@@ -16,7 +16,7 @@
 <b>Hobbies:</b> Tech Stuff, Graphics Design, Games, Anime
 </li>
 <li>
-<b>Working @:</b> AOSP ( Paranoid Android fork ) + Private Unity development
+<b>Working @:</b> AOSP ( Paranoid Android fork ) + Private Unity development - Retired, now UE4 :p 
 </li>
 <li>
 <b>Language :</b> C# (.NET), C/C++, 
