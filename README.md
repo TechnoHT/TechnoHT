@@ -4,7 +4,7 @@
 <b>Name:</b> TechnoHT
 </li>
 <li>
-<b>Nationality:</b> Vietnam
+<b>Nationality:</b> Vietnam, Living in Chiyoda, Tokyo, Japan
 </li>
 <li>
 <b>Loves:</b> Games, Code and Drawing ( maybe ( ͡° ͜ʖ ͡°) )
@@ -16,10 +16,10 @@
 <b>Hobbies:</b> Tech Stuff, Graphics Design, Games, Anime
 </li>
 <li>
-<b>Working @:</b> AOSP ( Paranoid Android fork ) + Private Unity development - Retired, now UE4 :p 
+<b>Working @:</b> Sony Open Devices Mainline project (SDM835 - Yoshino, SDM845 - Akatsuki, SDM855 and above)
 </li>
 <li>
-<b>Language :</b> C# (.NET), C/C++, 
+<b>Language :</b> C# (.NET), C/C++
 </li>
 <li>
 <b>Most used tools :</b> Unity3D, Blender, Visual Studio, Visual Studio Code
@@ -35,7 +35,7 @@
 Windows 10 Enterprise 20H2
 </li>
 <li>
-Ubuntu 20.04,20.04 LTS / openSUSE Leap 15.2 / SLES 12 SP5, 15 SP2 / Alpine / Kali ( maybe WSLdl in future )
+Ubuntu 20.04 LTS
    </li>
 <b>Specs</b>
    </li>
