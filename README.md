@@ -10,7 +10,7 @@
 <b>Gender:</b> Male
 </li>
 <li>
-<b>Working @:</b> Sony Open Devices Mainline project (SDM835 - Yoshino, SDM845 - Akatsuki, SDM855 and above)
+<b>Working @:</b> Sony Open Devices Mainline project (MSM8998 - Yoshino)
 </li>
 <li>
 <b>Language :</b> C# (.NET), C/C++
